@@ -1,0 +1,11 @@
+body{
+	background:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F733475%2Fpexels-photo-733475.jpeg%3Fcs%3Dsrgb%26dl%3Dastronomy-cosmos-dark-733475.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fnight%2520sky%2F&docid=fzhPC5r7rLcHfM&tbnid=Sg800YvZW_av8M%3A&vet=10ahUKEwjxr8DL16_fAhWKrY8KHTwyCFIQMwhhKBgwGA..i&w=6000&h=3646&bih=626&biw=1366&q=best%20space%20images%20full%20of%20stars%20high%20resolution&ved=0ahUKEwjxr8DL16_fAhWKrY8KHTwyCFIQMwhhKBgwGA&iact=mrc&uact=8);
+	background-size:cover;
+	background-position:centre;
+}
+h1{
+	color:purple;
+}
+h2{
+	color:yellow;
+}
